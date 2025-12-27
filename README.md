@@ -49,7 +49,8 @@ Firebase Authentication (Ready) – user identity (future scope)
 Google Cloud Platform (GCP) – scalable backend foundation
 
 Google Maps API (Planned / Integrated-ready) – campus & safe zone mapping
-### Google AI Tools Integrated ✅
+---
+### Google AI Tools Integrated 
 -Currently Integrated / AI-Ready:
 
 Visual Location Identification (AI-based)
@@ -61,7 +62,7 @@ Dialogflow / Gemini – voice-based emergency reporting & guidance
 
 Gemini API – smart incident classification
 
-
+---
 
 ### Brief Description of Your Solution (Problem → Approach → Impact)
 ## 📌 Problem
