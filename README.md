@@ -38,23 +38,44 @@ HyderSafe bridges this gap by providing an **instant SOS system**, **live incide
 
 ---
 
-## 🖼️ Screenshots
+### List of Google Technologies Used ✅
 
-### 🔴 SOS Alert Interface
-![SOS Home](screenshots/sos-home.png)
+Use this exact list in submission:
 
-### 📍 Visual Location Detection
-![Visual Locate](screenshots/visual-locate.png)
+Firebase Realtime Database – real-time SOS alerts & live sync
 
-### 📡 Live Campus Monitor
-![Live Monitor](screenshots/live-monitor.png)
+Firebase Authentication (Ready) – user identity (future scope)
 
-### 🚨 Security Incident Feed
-![Incident Feed](screenshots/incident-feed.png)
+Google Cloud Platform (GCP) – scalable backend foundation
 
-### 📢 Alert Broadcasting
-![Alert Broadcasting](screenshots/alert-broadcast.png)
+Google Maps API (Planned / Integrated-ready) – campus & safe zone mapping
+### Google AI Tools Integrated ✅
+-Currently Integrated / AI-Ready:
 
----
+Visual Location Identification (AI-based)
+Uses camera-based scene capture to help identify indoor campus locations where GPS may be unreliable.
 
-## 🛠
+-Future AI Expansion (Mentionable):
+
+Dialogflow / Gemini – voice-based emergency reporting & guidance
+
+Gemini API – smart incident classification
+
+
+
+### Brief Description of Your Solution (Problem → Approach → Impact)
+## 📌 Problem
+
+Campus students—especially women—face safety risks due to poor lighting, harassment, and medical emergencies. Existing systems lack real-time coordination, causing delayed responses.
+
+## 💡 Approach
+
+HyderSafe provides a one-tap SOS mobile interface connected to a real-time Firebase backend. Alerts are instantly broadcast to a live security dashboard with location data, enabling faster response and coordination.
+
+## 🌍 Impact
+
+Reduced emergency response time
+
+Improved campus safety visibility
+
+Scalable solution for colleges across Hyderabad
