@@ -1,0 +1,8 @@
+{
+  "name": "HyderSafe - Campus Emergency Response",
+  "description": "A comprehensive campus safety application for Hyderabad colleges featuring real-time SOS, security dashboards, and AI-powered safety guidance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
