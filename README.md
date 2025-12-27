@@ -12,7 +12,35 @@ HyderSafe is a **real-time campus safety and emergency response platform** desig
 **https://drive.google.com/file/d/1JmEWbpbF3M1OPrTvGyNGgJ7dlHb-_Ois/view?usp=sharing**
 
 ---
+## 🖼️ Screenshots
 
+## 🖼️ Screenshots
+
+### 🔴 SOS Alert Interface
+![SOS Home](screenshots/sos-home.png)
+
+### 📍 Visual Location Detection
+![Visual Locate](screenshots/visual-locate.png)
+
+### 📡 Live Campus Monitor
+![Live Monitor](screenshots/live-monitor.png)
+
+### 🚨 Security Incident Feed
+![Incident Feed](screenshots/incident-feed.png)
+
+### 📢 Alert Broadcasting
+![Alert Broadcasting](screenshots/alert-broadcast.png)
+
+### Guards 
+![Active protocols](screenshots/Guard.png)
+
+### incident analytics
+![Analytics](screenshots/incident-analytics.png)
+
+### Incident archives
+![Archives](screenshots/incident-archives.png)
+
+---
 ## 🎯 Problem Statement
 During campus emergencies, delayed communication and lack of real-time visibility can put lives at risk.  
 HyderSafe bridges this gap by providing an **instant SOS system**, **live incident feed**, and **security coordination dashboard**.
