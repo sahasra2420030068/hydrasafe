@@ -4,7 +4,7 @@ HyderSafe is a **real-time campus safety and emergency response platform** desig
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live project Demo
 🔗 **https://hydrasafe.netlify.app/**
 
 ----
