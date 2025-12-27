@@ -80,6 +80,7 @@ Reduced emergency response time
 Improved campus safety visibility
 
 Scalable solution for colleges across Hyderabad
+
 ---
 ### demo link
 https://drive.google.com/file/d/1JmEWbpbF3M1OPrTvGyNGgJ7dlHb-_Ois/view?usp=sharing
