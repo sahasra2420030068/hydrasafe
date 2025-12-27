@@ -1,20 +1,60 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚨 HYDERSAFE – Campus Emergency Response System
 
-# Run and deploy your AI Studio app
+HyderSafe is a **real-time campus safety and emergency response platform** designed to help students instantly alert campus security during emergencies and enable security teams to respond faster with live monitoring and incident management.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1nNvWzVvIn3Za1JaRSNF4LQoYnrC9LNCl
+## 🌐 Live Demo
+🔗 **https://hydrasafe.netlify.app/**
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🎯 Problem Statement
+During campus emergencies, delayed communication and lack of real-time visibility can put lives at risk.  
+HyderSafe bridges this gap by providing an **instant SOS system**, **live incident feed**, and **security coordination dashboard**.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Key Features
+
+### 👨‍🎓 Student Interface
+- One-tap **SOS emergency alert**
+- Emergency category selection (Security, Medical, Harassment, Unsafe)
+- Visual location identification
+- Live response status
+- “I Am Safe Now” confirmation
+
+### 🛡️ Security Dashboard
+- Live incident monitoring
+- Real-time alert feed
+- Incident location mapping
+- Guard assignment & resolution
+- Incident history & analytics
+
+### ☁️ Backend
+- Firebase Realtime Database
+- Live data sync across users
+- Secure and scalable architecture
+
+---
+
+## 🖼️ Screenshots
+
+### 🔴 SOS Alert Interface
+![SOS Home](screenshots/sos-home.png)
+
+### 📍 Visual Location Detection
+![Visual Locate](screenshots/visual-locate.png)
+
+### 📡 Live Campus Monitor
+![Live Monitor](screenshots/live-monitor.png)
+
+### 🚨 Security Incident Feed
+![Incident Feed](screenshots/incident-feed.png)
+
+### 📢 Alert Broadcasting
+![Alert Broadcasting](screenshots/alert-broadcast.png)
+
+---
+
+## 🛠
