@@ -7,6 +7,10 @@ HyderSafe is a **real-time campus safety and emergency response platform** desig
 ## 🌐 Live Demo
 🔗 **https://hydrasafe.netlify.app/**
 
+----
+### 🎦Demo link:
+**https://drive.google.com/file/d/1JmEWbpbF3M1OPrTvGyNGgJ7dlHb-_Ois/view?usp=sharing**
+
 ---
 
 ## 🎯 Problem Statement
@@ -81,6 +85,3 @@ Improved campus safety visibility
 
 Scalable solution for colleges across Hyderabad
 
----
-### demo link
-https://drive.google.com/file/d/1JmEWbpbF3M1OPrTvGyNGgJ7dlHb-_Ois/view?usp=sharing
